@@ -2,12 +2,12 @@ package collections.exercicios.exercicio1
 
 fun main() {
     var loteria = Loteria_Sonhos(mapOf(
-            0 to "ovo",
-            1 to "água",
-            2 to "escopeta",
-            3 to "cavalo",
-            4 to "dentista",
-            5 to "fogo"))
+            0 to "Ovo",
+            1 to "Água",
+            2 to "Escopeta",
+            3 to "Cavalo",
+            4 to "Dentista",
+            5 to "Fogo"))
 
     loteria.primeiros_cinco()
 
